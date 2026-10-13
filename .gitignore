@@ -1,1 +1,9 @@
 .venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+jobhunter.db
+jobhunter.db-*
+jobhunter.db.bak
+*.log
+.env
